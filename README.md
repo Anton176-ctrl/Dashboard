@@ -4,7 +4,7 @@ Thư mục NewDashBoard
 3. npm run dev
 
 Thư mục NodeJS
-1. Vào tên thư mục xong cmd và gõ code .
+1. Vào tên thư mục mở cmd và gõ code .
 2. npm init
 3. npm i
 4. node server.js
